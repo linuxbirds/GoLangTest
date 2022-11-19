@@ -1,0 +1,2 @@
+# GoLangTest
+Only for test
